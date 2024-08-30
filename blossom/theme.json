@@ -1,0 +1,33 @@
+{
+	"name": "blossom",
+	"author": "Daniel Brendel",
+	"contact": "https://www.hortusfox.com",
+	"version": "1.0",
+	"banner": "banner.jpg",
+	"rules": {
+		"height": "305px"
+	},
+	"icon": {
+		"asset": "blossom.png",
+		"base": {
+			"top": "261px",
+			"left": "195px"
+		},
+		"img": {
+			"width": "72px",
+			"height": "72px"
+		}
+	},
+	"accessory": {
+		"asset": "hearts.png",
+		"base": {
+			"top": "250px",
+			"right": "-83%"
+		},
+		"img": {
+			"width": "256px",
+			"height": "256px",
+			"transform": "rotate(40deg)"
+		}
+	}
+}

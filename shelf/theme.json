@@ -1,0 +1,10 @@
+{
+	"name": "shelf",
+	"author": "Daniel Brendel",
+	"contact": "https://www.hortusfox.com",
+	"version": "1.0",
+	"banner": "banner.jpg",
+	"rules": {
+		"height": "305px"
+	}
+}
