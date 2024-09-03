@@ -4,31 +4,21 @@
 	"contact": "https://www.hortusfox.com",
 	"version": "1.0",
 	"banner": "banner.jpg",
+	"include": "styles.css",
 	"rules": {
-		"height": "250px"
 	},
 	"icon": {
 		"asset": "banner-icon.png",
 		"base": {
-			"top": "200px",
-			"left": "195px"
 		},
 		"img": {
-			"width": "96px",
-			"height": "96px",
-			"transform": "rotate(20deg)"
 		}
 	},
 	"accessory": {
 		"asset": "banner-accessory.png",
 		"base": {
-			"top": "55px",
-			"right": "-83%"
 		},
 		"img": {
-			"width": "200px",
-			"height": "200px",
-			"transform": "scale(-1, 1) rotate(10deg)"
 		}
 	}
 }
