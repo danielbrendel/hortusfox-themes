@@ -27,11 +27,11 @@
 @media screen and (max-width: 768px) {
     .banner {
         display: block !important;
-        height: 50px !important;
+        height: 75px !important;
     }
 
     .banner-icon {
-        top: 22px !important;
+        top: 49px !important;
         left: 32px !important;
     }
     
@@ -42,7 +42,7 @@
     }
     
     .banner-accessory {
-        top: -35px !important;
+        top: -12px !important;
         right: -73% !important;
     }
     
