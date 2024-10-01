@@ -1,0 +1,24 @@
+{
+	"name": "spooky_forest",
+	"author": "Daniel Brendel",
+	"contact": "https://www.hortusfox.com",
+	"version": "1.0",
+	"banner": "banner.jpg",
+	"include": "styles.css",
+	"rules": {
+	},
+	"icon": {
+		"asset": "banner-icon.png",
+		"base": {
+		},
+		"img": {
+		}
+	},
+	"accessory": {
+		"asset": "banner-accessory.png",
+		"base": {
+		},
+		"img": {
+		}
+	}
+}
