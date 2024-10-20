@@ -12,6 +12,7 @@ This repository is a collection of themes for HortusFox. It is intended contains
 - pixelart
 - shelf
 - spooky_forest
+- spring
 - winter
 - xmas
 
