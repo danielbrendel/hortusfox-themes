@@ -1,0 +1,105 @@
+body {
+  background: linear-gradient(to top, #000428, #004e92) !important;
+  background-color: none;
+}
+.navbar.is-dark {
+  background-color: #000428 !important;
+}
+.fas,
+.far,
+.fab {
+  color: #fff !important;
+}
+.tabs li.is-active a {
+    border-bottom-color: #3273dc !important;
+    color: #74a1eb !important;
+}
+.plant-card-title-plant-id {
+  background-color:  rgba(11, 42, 91, 0.9) !important;
+  color: rgb(255, 255, 255) !important;
+}
+.stats-item,
+.warning-plants {
+  border: none !important;
+  border-radius: 30px !important;
+}
+.location-title {
+  background-color: rgba(11, 42, 91, 0.9) !important;
+  color: #c9c9c9 !important;
+}
+.sorting-control input[type="text"],
+.inventory-item-name {
+  color: #fff !important;
+}
+.location-title {
+  border-top-left-radius: 30px !important;
+  border-top-right-radius: 30px !important;
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.location-footer {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 30px !important;
+  border-bottom-left-radius: 30px !important;
+  text-align: center !important;
+}
+.last-added-or-authored-plants,
+.location {
+  border-radius: 30px !important;
+}
+.banner {
+  height: 250px;
+}
+
+.banner-icon {
+  top: 200px !important;
+  left: 195px;
+}
+
+.banner-icon img {
+  width: 96px !important;
+  height: 96px !important;
+  transform: rotate(20deg);
+}
+
+.banner-accessory {
+  top: 55px !important;
+  right: -83%;
+}
+
+.banner-accessory img {
+  width: 200px !important;
+  height: 200px !important;
+  transform: scale(-1, 1) rotate(10deg);
+}
+
+@media screen and (max-width: 768px) {
+  .banner {
+    display: block !important;
+    height: 50px !important;
+  }
+
+  .banner-icon {
+    top: 22px !important;
+    left: 32px !important;
+  }
+
+  .banner-icon img {
+    width: 48px !important;
+    height: 48px !important;
+    transform: rotate(20deg) !important;
+  }
+
+  .banner-accessory {
+    top: -39px !important;
+    right: -73% !important;
+  }
+
+  .banner-accessory img {
+    width: 72px !important;
+    height: 72px !important;
+    transform: scale(-1, 1) rotate(10deg) !important;
+  }
+}
