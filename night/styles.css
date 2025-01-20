@@ -35,7 +35,10 @@ body {
 .inventory-item-name {
   color: #fff !important;
 }
-.location:hover, .plant-card:hover {
+.location:hover {
+  box-shadow: 0 0 20px 0 rgba(85, 120, 165, 0.95) !important;
+}
+.plant-card:hover {
   box-shadow: 0 0 20px 0 rgba(85, 120, 165, 0.95) !important;
 }
 .location-footer {
