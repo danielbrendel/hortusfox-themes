@@ -26,18 +26,16 @@ body {
 .location-title {
   background-color: rgba(11, 42, 91, 0.9) !important;
   color: #c9c9c9 !important;
-}
-.sorting-control input[type="text"],
-.inventory-item-name {
-  color: #fff !important;
-}
-.location-title {
   border-top-left-radius: 30px !important;
   border-top-right-radius: 30px !important;
   border-bottom-right-radius: 0px !important;
   border-bottom-left-radius: 0px !important;
 }
-.location:hover {
+.sorting-control input[type="text"],
+.inventory-item-name {
+  color: #fff !important;
+}
+.location:hover, .plant-card:hover {
   box-shadow: 0 0 20px 0 rgba(85, 120, 165, 0.95) !important;
 }
 .location-footer {
