@@ -37,7 +37,9 @@ body {
   border-bottom-right-radius: 0px !important;
   border-bottom-left-radius: 0px !important;
 }
-
+.location:hover {
+  box-shadow: 0 0 20px 0 rgba(85, 120, 165, 0.95) !important;
+}
 .location-footer {
   border-top-left-radius: 0px !important;
   border-top-right-radius: 0px !important;
