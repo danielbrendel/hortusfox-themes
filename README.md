@@ -9,6 +9,7 @@ This repository is a collection of themes for HortusFox. It is intended contains
 - autumn_hill
 - blossom
 - flowers
+- night
 - pixelart
 - shelf
 - spooky_forest
