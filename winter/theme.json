@@ -5,6 +5,7 @@
 	"version": "1.0",
 	"banner": "banner.jpg",
 	"include": "styles.css",
+	"script": "snowfall.js",
 	"rules": {
 	},
 	"icon": {
