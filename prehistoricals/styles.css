@@ -1,0 +1,316 @@
+html, body {
+  background-color: rgb(30, 42, 53) !important;
+}
+
+.last-added-or-authored-plants {
+  background-color: rgb(37, 53, 66) !important;
+}
+
+.warning-plants {
+  background-color: rgb(37, 53, 66) !important;
+}
+
+.overdue-tasks {
+  background-color: rgb(37, 53, 66) !important;
+}
+
+.stats-item {
+  background-color: rgb(37, 53, 66) !important;
+  border-left: 2px solid rgb(83, 135, 163) !important;
+}
+
+.task {
+  background-color: rgb(37, 53, 66) !important;
+}
+
+.task-header {
+  background-color: rgb(61, 82, 104) !important;
+}
+
+.task-header-title span {
+  color: rgb(179, 179, 179) !important;
+}
+
+.task-footer {
+  background-color: rgb(36, 45, 53) !important;
+  color: rgb(165, 165, 165) !important
+}
+
+.inventory-item-group {
+  background-color: rgba(140, 167, 219, 0.76) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.inventory-item {
+  background-color: rgba(54, 75, 94, 0.76) !important;
+}
+
+.inventory-item-name span {
+  color: rgb(155, 155, 155) !important;
+}
+
+.inventory-item-name a {
+  color: rgb(206, 206, 206) !important;
+}
+
+.inventory-item-actions svg {
+  color: rgb(166, 166, 166) !important;
+}
+
+.log {
+  background-color: rgb(37, 53, 66) !important;
+}
+
+.modal-card-head {
+  background-color: rgb(37, 53, 66) !important;
+}
+
+.modal-card-body {
+  background-color: rgb(49, 67, 81) !important;
+}
+
+.modal-card-foot {
+  background-color: rgb(45, 54, 64) !important;
+  border-top: 1px solid rgb(44, 53, 68) !important;
+}
+
+.modal-card-body input, .modal-card-body select, .modal-card-body textarea, .modal-card-body table {
+  background-color: rgb(42, 63, 79) !important;
+}
+
+.sorting-control select, .sorting-control input[type="text"] {
+  background-color: rgba(57, 90, 111, 0.9) !important;
+  border: 1px solid rgb(111, 135, 157) !important;
+}
+
+.is-default-link {
+  color: rgb(105, 172, 255) !important;
+}
+
+.is-input-dark {
+  background-color: rgba(52, 72, 94, 0.5) !important;
+  border: 1px solid rgb(74, 107, 143) !important;
+  color: rgb(200, 200, 200) !important;
+}
+
+.plant-tags-item a {
+  background-color: rgba(89, 137, 189, 0.3) !important;
+}
+
+.plant-tags-item a:hover {
+  background-color: rgba(89, 137, 189, 0.5) !important;
+}
+
+.scroll-to-top-inner {
+  background-color: rgb(78, 105, 132) !important;
+}
+
+.calendar-input {
+  background-color: rgb(49, 71, 94) !important;
+  border: 1px solid rgb(75, 111, 140) !important;
+}
+
+.weather-header-item {
+  background-color: rgb(35, 58, 77) !important;
+}
+
+.weather-day-data hr {
+  background-color: rgb(47, 65, 85) !important;
+}
+
+.system-message {
+  background-color: rgb(47, 74, 87) !important;
+  color: rgb(250, 250, 250) !important;
+}
+
+.system-message-content a {
+  color: rgb(174, 225, 255) !important;
+}
+
+.system-message-content a:hover {
+  color: rgb(174, 225, 255) !important;
+  text-decoration: underline;
+}
+
+.system-message-content strong {
+  color: rgb(163, 222, 255) !important;
+}
+
+.chat-message {
+  background-color: rgba(75, 89, 98, 0.5) !important;
+}
+
+.chat-message-right {
+  background-color: rgba(78, 122, 143, 0.9) !important;
+}
+
+.chat-message-info {
+  color: rgb(255, 255, 255) !important;
+}
+
+.history-year a {
+  background-color: rgba(57, 90, 111, 0.9) !important;
+  color: rgb(222, 222, 222) !important;
+}
+
+.history-year a:hover {
+  background-color: rgba(80, 126, 155, 0.9) !important;
+}
+
+.history-year-selected a {
+  background-color: rgba(80, 126, 155, 0.9) !important;
+  color: rgb(222, 222, 222) !important;
+  border-left: 3px solid rgb(65, 87, 123);
+}
+
+.plant-notes {
+  background-color: rgba(46, 67, 79, 0.5) !important;
+  border: 1px solid rgb(50, 90, 125) !important;
+}
+
+.profile-shared-photos td a {
+  color: rgb(139, 179, 243) !important;
+}
+
+.profile-shared-photos td a:hover {
+  color: rgb(167, 200, 251) !important;
+}
+
+.admin-environment input, .admin-environment textarea, .admin-environment select, .admin-media input, .admin-backup input, .admin-user-account input, .admin-user-account select, .admin-location input, .admin-auth input, .admin-auth textarea, .admin-attribute-schema input, .admin-attribute-schema select, .admin-calendar-class input, .admin-mail input, .admin-mail select, .admin-themes input, .admin-themes select, .admin-themes input, .admin-themes select, .admin-weather input, .admin-weather select {
+  background-color: rgb(55, 76, 98) !important;
+  color: rgb(200, 200, 200) !important;
+}
+
+.navbar.is-dark {
+  background-color: rgb(41, 63, 85) !important;
+}
+
+@media screen and (max-width: 1087px) {
+  .navbar-menu {
+    background-color: rgb(46, 72, 98) !important;
+  }
+}
+
+.navbar-dropdown {
+  background-color: rgb(46, 72, 98) !important;
+}
+
+.navbar-item a {
+  color: rgb(232, 232, 232) !important;
+}
+
+@media screen and (min-width: 1089px) {
+  .navbar-dropdown {
+    border: 2px solid rgb(75, 105, 132) !important;
+  }
+
+  .navbar.is-dark .navbar-item.has-dropdown:hover .navbar-link, .navbar.is-dark .navbar-item.has-dropdown.is-active .navbar-link {
+    background-color: unset !important;
+  }
+}
+
+.bottomnav {
+  background-color: rgb(39, 61, 82) !important;
+}
+
+.bottomnav-item a {
+  color: rgb(200, 200, 200) !important;
+}
+
+.location:hover {
+  box-shadow: 0 0 20px 0 rgba(85, 139, 165, 0.95) !important;
+}
+
+.location-title {
+  background-color: rgba(68, 122, 170, 0.67) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.location-footer {
+  background-color: rgba(38, 57, 68, 0.8) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.button.is-success {
+  background-color: rgb(50, 125, 165) !important;
+  color: rgb(250, 250, 250) !important;
+}
+
+.button.is-info, .button.is-link {
+  background-color: rgb(60, 100, 123) !important;
+  color: rgb(250, 250, 250) !important;
+}
+
+.quick-add-inner {
+  background-color: rgb(83, 153, 195) !important;
+}
+
+.quickscan-inner {
+  background-color: rgb(50, 111, 164) !important;
+}
+
+.system-message-small {
+  color: rgb(200, 200, 200) !important;
+  background-color: rgb(61, 82, 104) !important;
+  box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.5) !important;
+  border: 2px solid rgb(111, 111, 111) !important
+}
+
+.system-message-small-content a {
+  color: rgb(155, 200, 255) !important;
+  font-weight: bold !important;
+}
+
+.system-message-small-content a:hover {
+  color: rgb(155, 200, 255) !important;
+  font-weight: bold !important;
+  text-decoration: underline !important;
+}
+
+.chat-message-new {
+  background-color: rgb(65, 163, 222) !important;
+  box-shadow: 0 0 5px 0 rgba(255, 255, 255, 0.5) !important;
+  border: 1px solid rgb(115, 192, 255) !important;
+}
+
+.chat-user-list {
+  color: rgb(127, 255, 255) !important;
+}
+
+.banner {
+    height: 305px !important;
+    mask-image: linear-gradient(to bottom, rgb(30, 30, 30) 99%, rgba(30, 30, 30, 0) 100%);
+}
+
+.prehistoricals-crossfade {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: var(--current-bg); 
+  overflow: hidden;
+}
+
+.prehistoricals-crossfade::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: var(--next-bg);
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
+
+.prehistoricals-crossfade.prehistoricals-fade::after {
+  opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .banner {
+        display: block !important;
+        height: 85px !important;
+        background-size: cover !important;
+    }
+}

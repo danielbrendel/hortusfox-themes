@@ -1,0 +1,37 @@
+.banner {
+    height: 305px !important;
+    mask-image: linear-gradient(to bottom, rgb(30, 30, 30) 99%, rgba(30, 30, 30, 0) 100%);
+}
+
+.botanicals-crossfade {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: var(--current-bg); 
+  overflow: hidden;
+}
+
+.botanicals-crossfade::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: var(--next-bg);
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
+
+.botanicals-crossfade.botanicals-fade::after {
+  opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .banner {
+        display: block !important;
+        height: 85px !important;
+        background-size: cover !important;
+    }
+}

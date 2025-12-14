@@ -8,10 +8,16 @@ This repository is a collection of themes for HortusFox. It is intended contains
 - autumn_forest
 - autumn_hill
 - blossom
+- botanicals
+- castles
 - flowers
+- frisky
+- minecraft
 - night
 - pixelart
+- prehistoricals
 - shelf
+- shrooms
 - spooky_forest
 - spring
 - winter

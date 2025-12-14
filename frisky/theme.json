@@ -1,0 +1,11 @@
+{
+	"name": "frisky",
+	"author": "Daniel Brendel",
+	"contact": "https://www.hortusfox.com",
+	"version": "1.0",
+	"banner": "img/banner0.jpg",
+	"include": "theme.css",
+	"script": "theme.js",
+	"rules": {
+	}
+}
