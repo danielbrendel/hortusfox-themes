@@ -10,6 +10,14 @@ html, body {
   background-color: rgb(37, 53, 66) !important;
 }
 
+.table-bright-color {
+  background-color: rgb(41, 67, 87) !important;
+}
+
+.is-yellow-link {
+  color: rgb(99, 163, 245) !important;
+}
+
 .overdue-tasks {
   background-color: rgb(37, 53, 66) !important;
 }
